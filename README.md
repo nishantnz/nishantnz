@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/nishant_nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_nz" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/nishant zaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant zaveri" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/nishant zaveri](https://www.linkedin.com/in/nishant-zaveri-5b5313233/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant zaveri" height="30" width="40" /></a>
 
 </p>
 
